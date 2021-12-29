@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @revenant-coding
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning TypeScript
+- 📫 How to reach me: Discord: revenant.#0001
