@@ -1,4 +1,4 @@
-<h1 align="center">Hello guys. This is revenant.</h1>
+<h1 align="center">Hello guys, this is revenant.</h1>
 <h3 align="center">prospective computer scientist</h3>
 
 - 🔭 I’m currently working on **general stuff.**
