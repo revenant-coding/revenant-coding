@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **general stuff.**
 
-- 🌱 I’m currently learning **object oriented programming with typescript and especially c++, front-end programming with html,css and native javascript.**
+- 🌱 I’m currently learning **object oriented programming with c++.**
 
 - 💬 Ask me about **NodeJS, C#, RAGE:MP Framework**
 
