@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **NodeJS, C#, RAGE:MP Framework**
 
-- 📫 How to reach me **revenant.#6570** on Discord
+- 📫 How to reach me: **revenant.#6570** on Discord
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
