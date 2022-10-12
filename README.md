@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **object oriented programming with c++.**
 
-- 💬 Ask me about **NodeJS, C#, RAGE:MP Framework**
-
-- 📫 How to reach me: **revenant.#6570** on Discord
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/cMrxAdDm5p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cMrxAdDm5p" height="30" width="40" /></a>
