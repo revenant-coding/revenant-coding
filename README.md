@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **general stuff.**
 
-- 🌱 I’m currently learning **object oriented programming with c++.**
+- 🌱 I’m currently learning **ios development with swiftui**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
